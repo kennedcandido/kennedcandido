@@ -4,25 +4,9 @@
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats-rho-eight-83.vercel.app/api?username=kenned-candido&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=B7A99A&icon_color=B7A99A&text_color=AAB0B6&bg_color=0D1117&CACHE_SECONDS=300)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-rho-eight-83.vercel.app/api/top-langs/?username=kenned-candido&layout=compact&hide_border=true&hide_title=true&text_color=AAB0B6&bg_color=0D1117&CACHE_SECONDS=300)](https://github.com/anuraghazra/github-readme-stats)
-[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kenned-candido&bg_color=0D1117&color=B7A99A&line=3E444A&point=AAB0B6&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats-rho-eight-83.vercel.app/api?username=kennedcandido&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&title_color=B7A99A&icon_color=B7A99A&text_color=AAB0B6&bg_color=0D1117&CACHE_SECONDS=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rho-eight-83.vercel.app/api/top-langs/?username=kennedcandido&layout=compact&hide_border=true&hide_title=true&text_color=AAB0B6&bg_color=0D1117&CACHE_SECONDS=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kennedcandido&bg_color=0D1117&color=B7A99A&line=3E444A&point=AAB0B6&area=false&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-<!-----
-
-### Main Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&color=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&color=0D1117)&nbsp;
-
-### Tools:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117&color=0D1117)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&color=0D1117)&nbsp;
-
-### Currently Learning:
-
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&color=0D1117)&nbsp;
-![Cpp](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0D1117&color=0D1117)&nbsp; -->
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1E22&height=100&section=footer"/>
