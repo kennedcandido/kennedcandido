@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1E22&height=85&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A545E&height=85&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1700&color=E3DDD5&center=true&vCenter=true&multiline=true&width=820&height=70&lines=kenned%40system%3A~%24+.%2Finspect_env+--verbose;%5BOK%5D+Stack%3A+Python+%26+Shell+%7C+Focus%3A+Systems+%26+Automation)](https://git.io/typing-svg)
 
@@ -28,4 +28,4 @@ kenned@fedora:~$ ./connect --target=network
 ```
 🌐 **Network Gateway:** [kennedcandido.github.io/linkzy ↗](https://kennedcandido.github.io/linkzy/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1A1E22&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4A545E&height=100&section=footer"/>
